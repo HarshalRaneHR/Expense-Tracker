@@ -1,0 +1,27 @@
+{
+  "name": "expensetracker",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.9",
+    "axios": "^1.8.1",
+    "emoji-picker-react": "^4.12.0",
+    "moment": "^2.30.1",
+    "preact": "^10.26.2",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.2.0",
+    "recharts": "^2.15.1",
+    "tailwindcss": "^4.0.9"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.1",
+    "vite": "^6.2.0"
+  }
+}
