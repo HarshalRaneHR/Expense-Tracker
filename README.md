@@ -71,6 +71,13 @@ The project is built using the **MERN (MongoDB, Express.js, React.js, Node.js) s
 - **Update profile** with a profile picture and personal details.
 
 ## 📸 Screenshots
+![Screenshot (10)](https://github.com/user-attachments/assets/2e40af32-a5d9-457b-b2dc-c0571b3043bb)
+![Screenshot (9)](https://github.com/user-attachments/assets/decafc03-ac6a-4b97-b1cd-08c03302de4c)
+![Screenshot (14)](https://github.com/user-attachments/assets/c757e0b8-1601-4529-bd07-bdb9c05b128f)
+![Screenshot (13)](https://github.com/user-attachments/assets/24c41fc9-aa5c-48d8-bbe8-6d2f279e94d9)
+![Screenshot (12)](https://github.com/user-attachments/assets/d2ad5a3a-6385-4072-ab4d-23a676b47aed)
+![Screenshot (11)](https://github.com/user-attachments/assets/6b35ac32-2faa-4e9c-bf16-47077c59412c)
+
 _Add screenshots here to showcase UI_
 
 ## 🛡 Security
