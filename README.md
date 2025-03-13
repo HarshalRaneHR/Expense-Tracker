@@ -13,10 +13,22 @@ The **Expense Tracker** is a web application designed to help users manage their
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js / Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB / Firebase
-- **Authentication**: JWT / Firebase Auth
+The project is built using the **MERN (MongoDB, Express.js, React.js, Node.js) stack**.
+
+- **Frontend**:
+  - React.js
+  - Tailwind CSS
+  - Moment.js
+  - React Hot Toast
+  - React Icons
+  - Recharts
+
+- **Backend**:
+  - Express.js
+  - Mongoose
+  - JWT Token
+  - Bcrypt
+  - Multer
 
 ## 🎯 Installation Guide
 
