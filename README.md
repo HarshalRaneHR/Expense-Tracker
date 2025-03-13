@@ -39,18 +39,28 @@ The project is built using the **MERN (MongoDB, Express.js, React.js, Node.js) s
    ```
 
 2. Install dependencies:
+
    ```bash
+   cd frontend
+   npm install
+   cd ../backend
    npm install
    ```
 
 3. Configure environment variables:
-   - Create a `.env` file in the root directory.
+
+   - Create a `.env` file in the `backend` root directory.
    - Add necessary environment variables (e.g., database URL, authentication keys).
 
 4. Run the project:
+
    ```bash
-   npm start
+   cd frontend
+   npm run dev
    ```
+   ```bash
+   cd backend
+   npm run dev
 
 ## 🎮 Usage
 
