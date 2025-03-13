@@ -64,25 +64,14 @@ The project is built using the **MERN (MongoDB, Express.js, React.js, Node.js) s
 _Add screenshots here to showcase UI_
 
 ## 🛡 Security
-- Secure authentication using JWT or Firebase Auth.
+- Secure authentication using JWT Auth.
 - Password hashing for user credentials.
 - Protected routes for authenticated users.
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙌 Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`feature-branch-name`).
-3. Commit your changes.
-4. Push to your forked repository.
-5. Create a pull request.
-
 ## 📬 Contact
 For any queries, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: harshalrane114@gmail.com
+- **GitHub**: [HarshalRaneHR](https://github.com/HarshalRaneHR)
 
 ---
 **Happy Tracking! 🚀**
